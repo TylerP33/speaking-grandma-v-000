@@ -16,15 +16,16 @@
 def speak_to_grandma
   if "Hi Nana, how are you?"
       puts "HUH?! SPEAK UP, SONNY!"
-      
+
   elsif 'Hi!'
       puts "HUH?! SPEAK UP, SONNY!"
-      
+
   elsif "What did you eat today?".upcase
       puts "NO, NOT SINCE 1938!"
-      
+  elsif "WHAT?"
+
   else "I LOVE YOU GRANDMA!"
       puts "I LOVE YOU TOO PUMPKIN!"
-      
+
     end
 end
