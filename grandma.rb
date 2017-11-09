@@ -13,8 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma(phrase)
-  phrase = "Hi Grandma!"
+def speak_to_grandma("Hi Grandma")
   if phrase
       puts "HUH! SPEAK UP, SONNY!"
   elsif phrase.upcase
