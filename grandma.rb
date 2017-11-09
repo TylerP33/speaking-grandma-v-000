@@ -1,3 +1,3 @@
 def speak_to_grandma('I LOVE YOU GRANDMA!')
-  puts ('I LOVE YOU TOO PUMPKIN!')
-end 
+  puts 'I LOVE YOU TOO PUMPKIN!'
+end
