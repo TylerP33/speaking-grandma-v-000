@@ -13,8 +13,8 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma(phrase)
-  if phrase
+def speak_to_grandma
+  if "Hi Nana, how are you?"
       puts "Hi Nana, how are you?"
   elsif "What did you eat today?".upcase
       puts "NO, NOT SINCE 1938!"
