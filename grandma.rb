@@ -9,7 +9,7 @@ def speak_to_grandma(phrase)
       puts "NO, NOT SINCE 1938!"
   elsif phrase == "WHAT?"
       puts "NO, NOT SINCE 1938!"
-    if phrase == "I LOVE YOU GRANDMA!"
+  if phrase == "I LOVE YOU GRANDMA!"
       puts "I LOVE YOU PUMPKIN!"
     end
 end
