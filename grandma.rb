@@ -23,6 +23,7 @@ def speak_to_grandma
   elsif "What did you eat today?".upcase
       puts "NO, NOT SINCE 1938!"
   elsif "WHAT?"
+      puts "NO, NOT SINCE 1938!"
 
   else "I LOVE YOU GRANDMA!"
       puts "I LOVE YOU TOO PUMPKIN!"
